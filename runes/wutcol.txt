@@ -1,4 +1,4 @@
 ?:  %wtcl   wutcol
 
   gene:
-            [%wtcl p=gene q=gene r=gene]                ::
+    [%wtcl p=gene q=gene r=gene]                ::

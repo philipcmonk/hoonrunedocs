@@ -1,4 +1,7 @@
 ?+  %wtls   wutlus
 
   gene:
-            [%wtls p=gene q=gene r=gent]                ::
+    [%wtls p=gene q=gene r=gent]                ::
+
+  ap:
+    [%wtls *]   [%wthp p.gen (weld r.gen `_r.gen`[[[%bcts %noun] q.gen] ~])]

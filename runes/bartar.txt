@@ -1,4 +1,7 @@
 |*  %brtr   bartar
 
   gene:
-            [%brtr p=gene q=gene]                       ::
+    [%brtr p=gene q=gene]                       ::
+
+  ap:
+    [%brtr *]  [%brcb p.gen (~(put by *(map term foot)) %$ [%elm q.gen])]

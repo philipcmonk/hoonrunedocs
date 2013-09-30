@@ -1,4 +1,4 @@
 ;&  %smpm   sempam
 
   gene:
-            [%smpm p=gene q=gens]                       ::
+    [%smpm p=gene q=gens]                       ::

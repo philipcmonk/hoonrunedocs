@@ -1,4 +1,7 @@
 ~#  %sghx   sighax
 
   gene:
-            [%sghx p=term q=gene]                       ::
+    [%sghx p=term q=gene]                       ::
+
+  ap:
+    [%sghx *]  [%sggr [%ping [%dtsg %$ p.gen]] q.gen]

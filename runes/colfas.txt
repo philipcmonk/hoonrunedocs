@@ -1,4 +1,7 @@
 :/  %clfs   colfas
 
   gene:
-            [%clfs p=gene]                              ::
+    [%clfs p=gene]                              ::
+
+  ap:
+    [%clfs *]  =+(zoy=[%dtsg %ta %$] [%clsg [zoy [%clsg [zoy p.gen] ~]] ~])

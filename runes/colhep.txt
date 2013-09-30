@@ -1,4 +1,7 @@
 :-  %clhp   colhep
 
   gene:
-            [%clhp p=gene q=gene]                       ::
+    [%clhp p=gene q=gene]                       ::
+
+  ap:
+    [%clhp *]  [p.gen q.gen]

@@ -1,4 +1,7 @@
 ?~  %wtsg   wutsig
 
   gene:
-            [%wtsg p=gene q=gene r=gene]                ::
+    [%wtsg p=gene q=gene r=gene]                ::
+
+  ap:
+    [%wtsg *]   [%wtcl [%wtts [%bcts %null] p.gen] q.gen r.gen]

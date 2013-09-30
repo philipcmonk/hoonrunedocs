@@ -1,4 +1,7 @@
 $,  %bccm   buccom
 
   gene:
-            [%bccm p=gene]                              ::
+    [%bccm p=gene]                              ::
+
+  ap:
+    [%bccm *]  ~(clam al bore(gen p.gen))

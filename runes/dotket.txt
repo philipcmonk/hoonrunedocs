@@ -1,4 +1,4 @@
 .^  %dtkt   dotket
 
   gene:
-            [%dtkt p=gene]                              ::
+    [%dtkt p=gene]                              ::

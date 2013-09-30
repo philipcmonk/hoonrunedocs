@@ -1,4 +1,7 @@
 ;-  %smhp   semhep
 
   gene:
-            [%smhp p=gene q=gene]                       ::
+    [%smhp p=gene q=gene]                       ::
+
+  ap:
+    [%smhp *]  [%smls [%wtzp p.gen] q.gen]          ::

@@ -1,4 +1,7 @@
 ?>  %wtgr   wutgar
 
   gene:
-            [%wtgr p=gene q=gene]                       ::
+    [%wtgr p=gene q=gene]                       ::
+
+  ap:
+    [%wtgr *]   [%wtcl p.gen q.gen [%zpzp ~]]

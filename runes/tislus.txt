@@ -1,4 +1,7 @@
 =+  %tsls   tislus
 
   gene:
-            [%tsls p=gene q=gene]                       ::
+    [%tsls p=gene q=gene]                       ::
+
+  ap:
+    [%tsls *]  [%tsgr [p.gen [~ 1]] q.gen]

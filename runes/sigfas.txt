@@ -1,4 +1,7 @@
 ~/  %sgfs   sigfas
 
   gene:
-            [%sgfs p=chop q=gene]                       ::
+    [%sgfs p=chop q=gene]                       ::
+
+  ap:
+    [%sgfs *]  [%sgcn p.gen [~ 7] ~ q.gen]

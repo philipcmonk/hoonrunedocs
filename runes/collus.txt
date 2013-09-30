@@ -1,4 +1,7 @@
 :+  %clls   collus
 
   gene:
-            [%clls p=gene q=gene r=gene]                ::
+    [%clls p=gene q=gene r=gene]                ::
+
+  ap:
+    [%clls *]  [p.gen q.gen r.gen]

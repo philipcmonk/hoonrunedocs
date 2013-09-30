@@ -1,4 +1,7 @@
 |-  %brhp   barhep
 
   gene:
-            [%brhp p=gene]                              ::
+    [%brhp p=gene]                              ::
+
+  ap:
+    [%brhp *]  [%tsgr [%brdt p.gen] [%cnbc %$]]

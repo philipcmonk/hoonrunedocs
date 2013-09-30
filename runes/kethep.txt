@@ -1,4 +1,7 @@
 ^-  %kthp   kethep
 
   gene:
-            [%kthp p=gene q=gene]                       ::
+    [%kthp p=gene q=gene]                       ::
+
+  ap:
+    [%kthp *]  [%ktls ~(bunt al bore(gen p.gen)) q.gen]

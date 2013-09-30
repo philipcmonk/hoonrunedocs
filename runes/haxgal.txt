@@ -1,4 +1,7 @@
 #<  %hxgl   haxgal
 
   gene:
-            [%hxgl p=gens]                              ::
+    [%hxgl p=gens]                              ::
+
+  ap:
+    [%hxgl *]  [%cnhp [%cnbc %pave] [%zpgr [%cltr p.gen]] ~]

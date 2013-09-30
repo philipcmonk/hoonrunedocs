@@ -1,4 +1,7 @@
 %~  %cnsg   censig
 
   gene:
-            [%cnsg p=wing q=gene r=gene]                ::
+    [%cnsg p=wing q=gene r=gene]                ::
+
+  ap:
+    [%cnsg *]  [%cntr p.gen q.gen [[[~ 6] r.gen] ~]]

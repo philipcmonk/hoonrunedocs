@@ -1,4 +1,4 @@
 ^~  %ktsg   ketsig
 
   gene:
-            [%ktsg p=gene]                              ::
+    [%ktsg p=gene]                              ::

@@ -1,4 +1,7 @@
 %+  %cnls   cenlus
 
   gene:
-            [%cnls p=gene q=gene r=gene]                ::
+    [%cnls p=gene q=gene r=gene]                ::
+
+  ap:
+    [%cnls *]  [%cnhp p.gen q.gen r.gen ~]

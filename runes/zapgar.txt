@@ -1,4 +1,7 @@
 !>  %zpgr   zapgar
 
   gene:
-            [%zpgr p=gene]                              ::
+    [%zpgr p=gene]                              ::
+
+  ap:
+    [%zpgr *]   [%zpsm [%bctr [%cnbc %type]] p.gen]

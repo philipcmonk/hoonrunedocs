@@ -1,4 +1,4 @@
 ?&  %wtpm   wutpam
 
   gene:
-            [%wtpm p=gens]                              ::
+    [%wtpm p=gens]                              ::

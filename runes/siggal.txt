@@ -1,4 +1,7 @@
 ~<  %sggl   siggal
 
   gene:
-            [%sggl p=$|(term [p=term q=gene]) q=gene]   ::
+    [%sggl p=$|(term [p=term q=gene]) q=gene]   ::
+
+  ap:
+    [%sggl *]  [%tsgl [%sggr p.gen [~ 1]] q.gen]

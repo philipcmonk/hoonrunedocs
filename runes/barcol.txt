@@ -1,4 +1,4 @@
 |:  %brcl   barcol
 
   gene:
-            [%brcl p=gene q=(map term foot)]            ::
+    [%brcl p=gene q=(map term foot)]            ::

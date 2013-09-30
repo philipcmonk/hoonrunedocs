@@ -1,4 +1,7 @@
 ~!  %sgzp   sigzap
 
   gene:
-            [%sgzp p=gene q=gene]                       ::
+    [%sgzp p=gene q=gene]                       ::
+
+  ap:
+    [%sgzp *]  [%sggr [%mean [%brdt p.gen]] q.gen]

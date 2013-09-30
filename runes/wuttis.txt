@@ -1,4 +1,7 @@
 ?=  %wtts   wuttis
 
   gene:
-            [%wtts p=gene q=gene]                       ::
+    [%wtts p=gene q=gene]                       ::
+
+  ap:
+    [%wtts *]   [%wtcn ~(bunt al bore(gen p.gen)) q.gen]

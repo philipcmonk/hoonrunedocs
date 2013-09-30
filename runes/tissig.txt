@@ -1,4 +1,4 @@
 =~  %tssg   tissig
 
   gene:
-            [%tssg p=gens]                              ::
+    [%tssg p=gens]                              ::

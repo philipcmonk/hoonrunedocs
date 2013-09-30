@@ -1,4 +1,7 @@
 $|  %bcbr   bucbar
 
   gene:
-            [%bcbr p=gene q=gene]                       ::
+    [%bcbr p=gene q=gene]                       ::
+
+  ap:
+    [%bcbr *]  ~(clam al bore)

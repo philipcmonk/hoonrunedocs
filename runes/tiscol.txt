@@ -1,4 +1,7 @@
 =:  %tscl   tiscol
 
   gene:
-            [%tscl p=gent q=gene]                       ::
+    [%tscl p=gent q=gene]                       ::
+
+  ap:
+    [%tscl *]

@@ -1,4 +1,4 @@
 ;_  %smcb   semcab
 
   gene:
-            [%smcb p=gene q=gene]                       ::
+    [%smcb p=gene q=gene]                       ::

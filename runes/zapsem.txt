@@ -1,4 +1,4 @@
 !;  %zpsm   zapsem
 
   gene:
-            [%zpsm p=gene q=gene]                       ::
+    [%zpsm p=gene q=gene]                       ::

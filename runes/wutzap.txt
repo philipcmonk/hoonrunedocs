@@ -1,4 +1,7 @@
 ?!  %wtzp   wutzap
 
   gene:
-            [%wtzp p=gene]                              ::
+    [%wtzp p=gene]                              ::
+
+  ap:
+    [%wtzp *]   [%wtcl p.gen [%dtsg %f 1] [%dtsg %f 0]]

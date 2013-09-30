@@ -1,4 +1,4 @@
 ;=  %smts   semtis
 
   gene:
-            [%smts p=gene q=gene]                       ::
+    [%smts p=gene q=gene]                       ::

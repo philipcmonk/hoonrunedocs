@@ -1,0 +1,107 @@
+digraph	symbol	name	gene	ap
+||	%brbr	barbar	[%brbr p=gene q=gene]                       ::	[%brbr *]  [%bccb [%brls p.gen ~(bunt al bore(gen q.gen))]]
+|_	%brcb	barcab	[%brcb p=gene q=(map term foot)]            ::	[%brcb *]  [%tsls [[%bctr p.gen] [%brcn q.gen]]]
+|%	%brcn	barcen	[%brcn p=(map term foot)]                   ::	
+|:	%brcl	barcol	[%brcl p=gene q=(map term foot)]            ::	
+|.	%brdt	bardot	[%brdt p=gene]                              ::	[%brdt *]  [%brcn (~(put by *(map term foot)) %$ [%ash p.gen])]
+|-	%brhp	barhep	[%brhp p=gene]                              ::	[%brhp *]  [%tsgr [%brdt p.gen] [%cnbc %$]]
+|^	%brkt	barket	[%brkt p=gene q=(map term foot)]            ::	[%brkt *]  [%tsgr [%brcn (~(put by q.gen) %$ [%ash p.gen])] [%cnbc %$]]
+|+	%brls	barlus	[%brls p=gene q=gene]                       ::	[%brls *]  [%ktbr [%brts p.gen q.gen]]
+|*	%brtr	bartar	[%brtr p=gene q=gene]                       ::	[%brtr *]  [%brcb p.gen (~(put by *(map term foot)) %$ [%elm q.gen])]
+|=	%brts	bartis	[%brts p=gene q=gene]                       ::	[%brts *]  [%brcb p.gen (~(put by *(map term foot)) %$ [%ash q.gen])]
+|?	%brwt	barwut	[%brwt p=gene]                              ::	[%brwt *]  [%ktwt %brdt p.gen]
+%_	%cncb	cencab	[%cncb p=wing q=gent]                       ::	[%cncb *]  [%ktls [%cnhx p.gen] %cnts p.gen q.gen]
+%:	%cncl	cencol	[%cncl p=gene q=gene]                       ::	[%cncl *]  [%cnsg [%$ ~] p.gen q.gen]
+%.	%cndt	cendot	[%cndt p=gene q=gene]                       ::	[%cndt *]  [%cnhp q.gen [p.gen ~]]
+%^	%cnkt	cenket	[%cnkt p=gene q=gene r=gene s=gene]         ::	[%cnkt *]  [%cnhp p.gen q.gen r.gen s.gen ~]
+%+	%cnls	cenlus	[%cnls p=gene q=gene r=gene]                ::	[%cnls *]  [%cnhp p.gen q.gen r.gen ~]
+%-	%cnhp	cenhep	[%cnhp p=gene q=gens]                       ::	[%cnhp *]
+%~	%cnsg	censig	[%cnsg p=wing q=gene r=gene]                ::	[%cnsg *]  [%cntr p.gen q.gen [[[~ 6] r.gen] ~]]
+%*	%cntr	centar	[%cntr p=wing q=gene r=gent]                ::	
+%=	%cnts	centis	[%cnts p=wing q=gent]                       ::	
+$|	%bcbr	bucbar	[%bcbr p=gene q=gene]                       ::	[%bcbr *]  ~(clam al bore)
+$_	%bccb	buccab	[%bccb p=gene]                              ::	[%bccb *]  ~(clam al bore)
+$:	%bccl	buccol	[%bccl p=gens]                              ::	[%bccl *]  [%bccm [%cltr p.gen]]
+$%	%bccn	buccen	[%bccn p=gene q=gens]                       ::	[%bccn *]  ~(clam al bore)
+$,	%bccm	buccom	[%bccm p=gene]                              ::	[%bccm *]  ~(clam al bore(gen p.gen))
+$&	%bcpm	bucpam	[%bcpm p=gene q=gene]                       ::	[%bcpm *]  ~(clam al bore)
+$?	%bcwt	bucwut	[%bcwt p=gene q=gens]                       ::	[%bcwt *]  ~(clam al bore)
+:_	%clcb	colcab	[%clcb p=gene q=gene]                       ::	[%clcb *]  [q.gen p.gen]
+:~	%clsg	colsig	[%clsg p=gens]                              ::	[%clsg *]
+:/	%clfs	colfas	[%clfs p=gene]                              ::	[%clfs *]  =+(zoy=[%dtsg %ta %$] [%clsg [zoy [%clsg [zoy p.gen] ~]] ~])
+:^	%clkt	colket	[%clkt p=gene q=gene r=gene s=gene]         ::	[%clkt *]  [p.gen q.gen r.gen s.gen]
+:+	%clls	collus	[%clls p=gene q=gene r=gene]                ::	[%clls *]  [p.gen q.gen r.gen]
+:-	%clhp	colhep	[%clhp p=gene q=gene]                       ::	[%clhp *]  [p.gen q.gen]
+:~	%clsg	colsig	[%clsg p=gens]                              ::	[%clsg *]
+:*	%cltr	coltar	[%cltr p=gens]                              ::	[%cltr *]  $(gen open)
+.+	%dtls	dotlus	[%dtls p=gene]                              ::	
+.*	%dttr	dottar	[%dttr p=gene q=gene]                       ::	
+.=	%dtts	dottis	[%dtts p=gene q=gene]                       ::	
+.?	%dtwt	dotwut	[%dtwt p=gene]                              ::	
+.^	%dtkt	dotket	[%dtkt p=gene]                              ::	
+#<	%hxgl	haxgal	[%hxgl p=gens]                              ::	[%hxgl *]  [%cnhp [%cnbc %pave] [%zpgr [%cltr p.gen]] ~]
+#>	%hxgr	haxgar	[%hxgr p=gens]                              ::	[%hxgr *]  [%cnhp [%cnbc %sell] [%zpgr [%cltr p.gen]] ~]
+^|	%ktbr	ketbar	[%ktbr p=gene]                              ::	
+^.	%ktdt	ketdot	[%ktdt p=gene q=gene]                       ::	
+^-	%kthp	kethep	[%kthp p=gene q=gene]                       ::	[%kthp *]  [%ktls ~(bunt al bore(gen p.gen)) q.gen]
+^+	%ktls	ketlus	[%ktls p=gene q=gene]                       ::	
+^&	%ktpm	ketpam	[%ktpm p=gene]                              ::	
+^~	%ktsg	ketsig	[%ktsg p=gene]                              ::	
+^=	%ktts	kettis	[%ktts p=term q=gene]                       ::	?:  ?=([%ktts *] gen)
+^?	%ktwt	ketwut	[%ktwt p=gene]                              ::	
+~|	%sgbr	sigbar	[%sgbr p=gene q=gene]                       ::	[%sgbr *]  [%sggr [%lose p.gen] q.gen]
+~$	%sgbc	sigbuc	[%sgbc p=term q=gene]                       ::	[%sgbc *]  [%sggr [%live [%dtsg %$ p.gen]] q.gen]
+~%	%sgcn	sigcen	[%sgcn p=chop q=gene r=genu s=gene]         ::	
+~:	%sgcl	sigcol	[%sgcl p=[p=@ q=@] q=gene]                  ::	[%sgcl *]  [%sggr [%bank %dtsg %$ p.gen] q.gen]
+~/	%sgfs	sigfas	[%sgfs p=chop q=gene]                       ::	[%sgfs *]  [%sgcn p.gen [~ 7] ~ q.gen]
+~<	%sggl	siggal	[%sggl p=$|(term [p=term q=gene]) q=gene]   ::	[%sggl *]  [%tsgl [%sggr p.gen [~ 1]] q.gen]
+~>	%sggr	siggar	[%sggr p=$|(term [p=term q=gene]) q=gene]   ::	
+~#	%sghx	sighax	[%sghx p=term q=gene]                       ::	[%sghx *]  [%sggr [%ping [%dtsg %$ p.gen]] q.gen]
+~^	%sgkt	sigket	[%sgkt p=gene q=gene]                       ::	[%sgkt *]
+~+	%sgls	siglus	[%sgls p=@ q=gene]                          ::	[%sgls *]  [%sggr [%memo %dtsg %$ p.gen] q.gen]
+~&	%sgpm	sigpam	[%sgpm p=@ud q=gene r=gene]                 ::	
+~=	%sgts	sigtis	[%sgts p=gene q=gene]                       ::	[%sgts *]  [%sggr [%germ p.gen] q.gen]
+~!	%sgzp	sigzap	[%sgzp p=gene q=gene]                       ::	[%sgzp *]  [%sggr [%mean [%brdt p.gen]] q.gen]
+;_	%smcb	semcab	[%smcb p=gene q=gene]                       ::	
+;,	%smcm	semcom	[%smcm p=gene q=gens]                       ::	
+;%	%smcn	semcen	[%smcn p=gens]                              ::	
+;:	%smcl	semcol	[%smcl p=gene q=gens]                       ::	
+;.	%smdt	semdot	[%smdt p=gene q=gens]                       ::	
+;<	%smgl	semgal	[%smgl p=gene q=gene r=gene]                ::	
+;>	%smgr	semgar	[%smgr p=gene q=gene r=gene]                ::	
+;-	%smhp	semhep	[%smhp p=gene q=gene]                       ::	[%smhp *]  [%smls [%wtzp p.gen] q.gen]          ::
+;+	%smls	semlus	[%smls p=gene q=gene]                       ::	
+;&	%smpm	sempam	[%smpm p=gene q=gens]                       ::	
+;~	%smsg	semsig	[%smsg p=gene q=gens]                       ::	
+;;	%smsm	semsem	[%smsm p=gene q=gene]                       ::	
+;*	%smtr	semtar	[%smtr p=gene q=gene]                       ::	
+;=	%smts	semtis	[%smts p=gene q=gene]                       ::	
+;?	%smwt	semwut	[%smwt p=gene q=gene]                       ::	
+=|	%tsbr	tisbar	[%tsbr p=gene q=gene]                       ::	
+=.	%tsdt	tisdot	[%tsdt p=gene q=gene r=gene]                ::	[%tsdt *]
+=^	%tskt	tisket	[%tskt p=gene q=gene r=gene s=gene]         ::	
+=:	%tscl	tiscol	[%tscl p=gent q=gene]                       ::	[%tscl *]
+=<	%tsgl	tisgal	[%tsgl p=gene q=gene]                       ::	[%tsgl *]  [%tsgr q.gen p.gen]
+=>	%tsgr	tisgar	[%tsgr p=gene q=gene]                       ::	
+=-	%tshp	tishep	[%tshp p=gene q=gene]                       ::	[%tshp *]  [%tsls q.gen p.gen]
+=+	%tsls	tislus	[%tsls p=gene q=gene]                       ::	[%tsls *]  [%tsgr [p.gen [~ 1]] q.gen]
+=~	%tssg	tissig	[%tssg p=gens]                              ::	
+?|	%wtbr	wutbar	[%wtbr p=gens]                              ::	
+?:	%wtcl	wutcol	[%wtcl p=gene q=gene r=gene]                ::	
+?.	%wtdt	wutdot	[%wtdt p=gene q=gene r=gene]                ::	[%wtdt *]   [%wtcl p.gen r.gen q.gen]
+?<	%wtgl	wutgal	[%wtgl p=gene q=gene]                       ::	[%wtgl *]   [%wtcl p.gen [%zpzp ~] q.gen]
+?>	%wtgr	wutgar	[%wtgr p=gene q=gene]                       ::	[%wtgr *]   [%wtcl p.gen q.gen [%zpzp ~]]
+?-	%wthp	wuthep	[%wthp p=gene q=gent]                       ::	
+?^	%wtkt	wutket	[%wtkt p=gene q=gene r=gene]                ::	[%wtkt *]   [%wtcl [%wtcn [%dtpt %$ 0] p.gen] r.gen q.gen]
+?=	%wtts	wuttis	[%wtts p=gene q=gene]                       ::	[%wtts *]   [%wtcn ~(bunt al bore(gen p.gen)) q.gen]
+?+	%wtls	wutlus	[%wtls p=gene q=gene r=gent]                ::	[%wtls *]   [%wthp p.gen (weld r.gen `_r.gen`[[[%bcts %noun] q.gen] ~])]
+?&	%wtpm	wutpam	[%wtpm p=gens]                              ::	
+?@	%wtpt	wutpat	[%wtpt p=gene q=gene r=gene]                ::	[%wtpt *]   [%wtcl [%wtcn [%dtpt %$ 0] p.gen] q.gen r.gen]
+?~	%wtsg	wutsig	[%wtsg p=gene q=gene r=gene]                ::	[%wtsg *]   [%wtcl [%wtts [%bcts %null] p.gen] q.gen r.gen]
+?!	%wtzp	wutzap	[%wtzp p=gene]                              ::	[%wtzp *]   [%wtcl p.gen [%dtsg %f 1] [%dtsg %f 0]]
+!:	%zpcl	zapcol		
+!,	%zpcm	zapcom	[%zpcm p=gene q=gene]                       ::	
+!;	%zpsm	zapsem	[%zpsm p=gene q=gene]                       ::	
+!^	%zpkt	zapket		
+!>	%zpgr	zapgar	[%zpgr p=gene]                              ::	[%zpgr *]   [%zpsm [%bctr [%cnbc %type]] p.gen]
+!=	%zpts	zaptis	[%zpts p=gene]                              ::	

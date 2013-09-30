@@ -1,4 +1,7 @@
 %.  %cndt   cendot
 
   gene:
-            [%cndt p=gene q=gene]                       ::
+    [%cndt p=gene q=gene]                       ::
+
+  ap:
+    [%cndt *]  [%cnhp q.gen [p.gen ~]]

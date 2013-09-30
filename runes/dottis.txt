@@ -1,4 +1,4 @@
 .=  %dtts   dottis
 
   gene:
-            [%dtts p=gene q=gene]                       ::
+    [%dtts p=gene q=gene]                       ::

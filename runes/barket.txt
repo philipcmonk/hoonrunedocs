@@ -1,4 +1,7 @@
 |^  %brkt   barket
 
   gene:
-            [%brkt p=gene q=(map term foot)]            ::
+    [%brkt p=gene q=(map term foot)]            ::
+
+  ap:
+    [%brkt *]  [%tsgr [%brcn (~(put by q.gen) %$ [%ash p.gen])] [%cnbc %$]]

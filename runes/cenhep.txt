@@ -1,4 +1,7 @@
 %-  %cnhp   cenhep
 
   gene:
-            [%cnhp p=gene q=gens]                       ::
+    [%cnhp p=gene q=gens]                       ::
+
+  ap:
+    [%cnhp *]

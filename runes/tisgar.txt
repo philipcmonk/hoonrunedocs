@@ -1,4 +1,4 @@
 =>  %tsgr   tisgar
 
   gene:
-            [%tsgr p=gene q=gene]                       ::
+    [%tsgr p=gene q=gene]                       ::

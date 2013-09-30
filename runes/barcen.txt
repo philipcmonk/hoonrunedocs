@@ -1,4 +1,4 @@
 |%  %brcn   barcen
 
   gene:
-            [%brcn p=(map term foot)]                   ::
+    [%brcn p=(map term foot)]                   ::

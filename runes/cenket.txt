@@ -1,4 +1,7 @@
 %^  %cnkt   cenket
 
   gene:
-            [%cnkt p=gene q=gene r=gene s=gene]         ::
+    [%cnkt p=gene q=gene r=gene s=gene]         ::
+
+  ap:
+    [%cnkt *]  [%cnhp p.gen q.gen r.gen s.gen ~]

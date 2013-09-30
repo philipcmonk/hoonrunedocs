@@ -1,4 +1,4 @@
 ^&  %ktpm   ketpam
 
   gene:
-            [%ktpm p=gene]                              ::
+    [%ktpm p=gene]                              ::

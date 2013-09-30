@@ -1,4 +1,7 @@
 ~+  %sgls   siglus
 
   gene:
-            [%sgls p=@ q=gene]                          ::
+    [%sgls p=@ q=gene]                          ::
+
+  ap:
+    [%sgls *]  [%sggr [%memo %dtsg %$ p.gen] q.gen]

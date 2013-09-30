@@ -1,4 +1,4 @@
 !,  %zpcm   zapcom
 
   gene:
-            [%zpcm p=gene q=gene]                       ::
+    [%zpcm p=gene q=gene]                       ::

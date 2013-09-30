@@ -1,4 +1,7 @@
 $_  %bccb   buccab
 
   gene:
-            [%bccb p=gene]                              ::
+    [%bccb p=gene]                              ::
+
+  ap:
+    [%bccb *]  ~(clam al bore)

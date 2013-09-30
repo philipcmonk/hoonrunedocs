@@ -1,4 +1,7 @@
 ?.  %wtdt   wutdot
 
   gene:
-            [%wtdt p=gene q=gene r=gene]                ::
+    [%wtdt p=gene q=gene r=gene]                ::
+
+  ap:
+    [%wtdt *]   [%wtcl p.gen r.gen q.gen]

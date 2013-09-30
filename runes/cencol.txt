@@ -1,4 +1,7 @@
 %:  %cncl   cencol
 
   gene:
-            [%cncl p=gene q=gene]                       ::
+    [%cncl p=gene q=gene]                       ::
+
+  ap:
+    [%cncl *]  [%cnsg [%$ ~] p.gen q.gen]

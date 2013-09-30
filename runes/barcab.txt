@@ -1,4 +1,7 @@
 |_  %brcb   barcab
 
   gene:
-            [%brcb p=gene q=(map term foot)]            ::
+    [%brcb p=gene q=(map term foot)]            ::
+
+  ap:
+    [%brcb *]  [%tsls [[%bctr p.gen] [%brcn q.gen]]]

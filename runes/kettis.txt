@@ -1,4 +1,7 @@
 ^=  %ktts   kettis
 
   gene:
-            [%ktts p=term q=gene]                       ::
+    [%ktts p=term q=gene]                       ::
+
+  ap:
+    ?:  ?=([%ktts *] gen)

@@ -1,4 +1,7 @@
 ||  %brbr   barbar
 
   gene:
-            [%brbr p=gene q=gene]                       ::
+    [%brbr p=gene q=gene]                       ::
+
+  ap:
+    [%brbr *]  [%bccb [%brls p.gen ~(bunt al bore(gen q.gen))]]

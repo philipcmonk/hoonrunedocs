@@ -1,4 +1,7 @@
 ~$  %sgbc   sigbuc
 
   gene:
-            [%sgbc p=term q=gene]                       ::
+    [%sgbc p=term q=gene]                       ::
+
+  ap:
+    [%sgbc *]  [%sggr [%live [%dtsg %$ p.gen]] q.gen]

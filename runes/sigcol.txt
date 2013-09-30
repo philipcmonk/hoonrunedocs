@@ -1,4 +1,7 @@
 ~:  %sgcl   sigcol
 
   gene:
-            [%sgcl p=[p=@ q=@] q=gene]                  ::
+    [%sgcl p=[p=@ q=@] q=gene]                  ::
+
+  ap:
+    [%sgcl *]  [%sggr [%bank %dtsg %$ p.gen] q.gen]

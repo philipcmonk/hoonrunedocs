@@ -1,4 +1,4 @@
 ^+  %ktls   ketlus
 
   gene:
-            [%ktls p=gene q=gene]                       ::
+    [%ktls p=gene q=gene]                       ::

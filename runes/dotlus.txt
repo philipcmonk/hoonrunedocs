@@ -1,4 +1,4 @@
 .+  %dtls   dotlus
 
   gene:
-            [%dtls p=gene]                              ::
+    [%dtls p=gene]                              ::

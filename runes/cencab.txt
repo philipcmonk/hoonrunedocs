@@ -1,4 +1,7 @@
 %_  %cncb   cencab
 
   gene:
-            [%cncb p=wing q=gent]                       ::
+    [%cncb p=wing q=gent]                       ::
+
+  ap:
+    [%cncb *]  [%ktls [%cnhx p.gen] %cnts p.gen q.gen]

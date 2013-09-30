@@ -1,4 +1,7 @@
 $&  %bcpm   bucpam
 
   gene:
-            [%bcpm p=gene q=gene]                       ::
+    [%bcpm p=gene q=gene]                       ::
+
+  ap:
+    [%bcpm *]  ~(clam al bore)

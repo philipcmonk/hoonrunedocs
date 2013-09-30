@@ -1,4 +1,4 @@
 ;:  %smcl   semcol
 
   gene:
-            [%smcl p=gene q=gens]                       ::
+    [%smcl p=gene q=gens]                       ::

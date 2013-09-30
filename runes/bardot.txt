@@ -1,4 +1,7 @@
 |.  %brdt   bardot
 
   gene:
-            [%brdt p=gene]                              ::
+    [%brdt p=gene]                              ::
+
+  ap:
+    [%brdt *]  [%brcn (~(put by *(map term foot)) %$ [%ash p.gen])]

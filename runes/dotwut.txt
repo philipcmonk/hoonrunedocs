@@ -1,4 +1,4 @@
 .?  %dtwt   dotwut
 
   gene:
-            [%dtwt p=gene]                              ::
+    [%dtwt p=gene]                              ::

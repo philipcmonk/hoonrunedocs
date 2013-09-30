@@ -1,4 +1,4 @@
 .*  %dttr   dottar
 
   gene:
-            [%dttr p=gene q=gene]                       ::
+    [%dttr p=gene q=gene]                       ::

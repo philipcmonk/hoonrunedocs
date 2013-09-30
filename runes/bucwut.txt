@@ -1,4 +1,7 @@
 $?  %bcwt   bucwut
 
   gene:
-            [%bcwt p=gene q=gens]                       ::
+    [%bcwt p=gene q=gens]                       ::
+
+  ap:
+    [%bcwt *]  ~(clam al bore)

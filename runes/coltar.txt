@@ -1,4 +1,7 @@
 :*  %cltr   coltar
 
   gene:
-            [%cltr p=gens]                              ::
+    [%cltr p=gens]                              ::
+
+  ap:
+    [%cltr *]  $(gen open)

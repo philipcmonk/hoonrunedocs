@@ -1,4 +1,7 @@
 :~  %clsg   colsig
 
   gene:
-            [%clsg p=gens]                              ::
+    [%clsg p=gens]                              ::
+
+  ap:
+    [%clsg *]

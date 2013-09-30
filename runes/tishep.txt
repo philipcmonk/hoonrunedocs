@@ -1,4 +1,7 @@
 =-  %tshp   tishep
 
   gene:
-            [%tshp p=gene q=gene]                       ::
+    [%tshp p=gene q=gene]                       ::
+
+  ap:
+    [%tshp *]  [%tsls q.gen p.gen]

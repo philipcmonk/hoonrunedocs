@@ -1,4 +1,7 @@
 |=  %brts   bartis
 
   gene:
-            [%brts p=gene q=gene]                       ::
+    [%brts p=gene q=gene]                       ::
+
+  ap:
+    [%brts *]  [%brcb p.gen (~(put by *(map term foot)) %$ [%ash q.gen])]

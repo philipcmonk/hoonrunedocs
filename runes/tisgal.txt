@@ -1,4 +1,7 @@
 =<  %tsgl   tisgal
 
   gene:
-            [%tsgl p=gene q=gene]                       ::
+    [%tsgl p=gene q=gene]                       ::
+
+  ap:
+    [%tsgl *]  [%tsgr q.gen p.gen]
